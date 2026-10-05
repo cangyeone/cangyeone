@@ -1,61 +1,65 @@
 <p align="center">
+  <strong>English</strong> · <a href="README.zh-CN.md">简体中文</a>
+</p>
+
+<p align="center">
   <img src="assets/banner.svg" alt="cangyeone — Seismology × AI" width="100%" />
 </p>
 
 <p align="center">
-  <strong>用 AI 理解地震信号，用代码连接研究与实践。</strong><br />
+  <strong>Understanding seismic signals with AI. Connecting research and practice through code.</strong><br />
   Seismic waveforms · Foundation models · Scientific agents
 </p>
 
 <p align="center">
-  <a href="https://github.com/cangyeone/seismicxm">地震基础模型</a> ·
-  <a href="https://github.com/cangyeone/sage">科研 AI 平台</a> ·
-  <a href="https://github.com/cangyeone/seismicx-catalog-skill">自动编目</a> ·
-  <a href="https://github.com/cangyeone/rag-tool-agent-course">课程与实践</a>
+  <a href="https://github.com/cangyeone/seismicxm">Seismic Foundation Models</a> ·
+  <a href="https://github.com/cangyeone/sage">AI for Research</a> ·
+  <a href="https://github.com/cangyeone/seismicx-catalog-skill">Automated Cataloging</a> ·
+  <a href="https://github.com/cangyeone/rag-tool-agent-course">Courses &amp; Tutorials</a>
 </p>
 
-## 你好，我是 cangyeone 👋
+## Hi, I'm cangyeone 👋
 
-我的项目围绕 **地震学、地球物理与人工智能** 展开：从连续波形处理、震相拾取和地震定位，到地震基础模型与面向科研的 AI Agent。希望把研究方法做成可复用的模型、工具和工作流，让数据走向结果的过程更清晰、更高效。
+My projects explore **seismology, geophysics, and artificial intelligence**: from continuous waveform processing, phase picking, and earthquake location to seismic foundation models and AI agents for scientific research. I build reusable models, tools, and workflows to make the path from data to scientific results clearer and more efficient.
 
-- **信号与模型**：地震波形表征、多任务学习、震相拾取与事件识别。
-- **分析与反演**：地震定位、面波频散反演、数值计算与 GPU 加速。
-- **科研工作流**：自动编目、RAG、工具调用，以及可复现的科学分析。
+- **Signals & models**: seismic waveform representations, multitask learning, phase picking, and event identification.
+- **Analysis & inversion**: earthquake location, surface-wave dispersion inversion, numerical computing, and GPU acceleration.
+- **Research workflows**: automated cataloging, RAG, tool calling, and reproducible scientific analysis.
 
-## 代表项目
+## Featured Projects
 
-| 项目 | 解决什么问题 |
+| Project | What it does |
 | :--- | :--- |
-| **[SeismicXM](https://github.com/cangyeone/seismicxm)** | 面向单台站地震波形的跨任务基础模型，统一支持震相拾取、初动极性与事件类型识别。 |
-| **[SAGE](https://github.com/cangyeone/sage)** | 地震学科研 AI 工作台，将自然语言交互、知识检索、代码执行、科学绘图与论文写作连接起来。 |
-| **[SeismicX Agent](https://github.com/cangyeone/seismicx-agent)** | 结合实时数据获取、深度学习震相检测与事件关联参数调优的地震监测分析平台。 |
-| **[Seismological AI Tools](https://github.com/cangyeone/seismological-ai-tools)** | 面向地震学研究的 AI 工具集。 |
-| **[CSNBench](https://github.com/cangyeone/csnbench)** | 中国地区震相拾取模型对比。 |
-| **[SeismicX Catalog Skill](https://github.com/cangyeone/seismicx-catalog-skill)** | 面向 AI Agent 的连续波形自动地震编目工具。 |
+| **[SeismicXM](https://github.com/cangyeone/seismicxm)** | A cross-task foundation model for single-station seismic waveforms, supporting phase picking, first-motion polarity classification, and event-type classification. |
+| **[SAGE](https://github.com/cangyeone/sage)** | An AI workbench for seismology research that connects natural language interaction, knowledge retrieval, code execution, scientific plotting, and paper writing. |
+| **[SeismicX Agent](https://github.com/cangyeone/seismicx-agent)** | A seismic monitoring and analysis platform combining real-time data acquisition, deep learning phase detection, and event association parameter tuning. |
+| **[Seismological AI Tools](https://github.com/cangyeone/seismological-ai-tools)** | A collection of AI tools for seismological research. |
+| **[CSNBench](https://github.com/cangyeone/csnbench)** | A benchmark comparing seismic phase-picking models in China. |
+| **[SeismicX Catalog Skill](https://github.com/cangyeone/seismicx-catalog-skill)** | Tools for AI agents to build earthquake catalogs from continuous seismic waveforms. |
 
-## 从数据到科学结果
+## From Data to Scientific Results
 
-更多围绕数据、定位、反演与计算的项目：
+More projects for datasets, location, inversion, and scientific computing:
 
-- **[seis-stream](https://github.com/cangyeone/seis-stream)** — 用于地震监测算法评测的连续波形数据集。
-- **[bayes_location](https://github.com/cangyeone/bayes_location)** — 走时模型、稳健贝叶斯地震定位与目录质量控制。
-- **[SurfFlow](https://github.com/cangyeone/SurfFlow)** — 基于条件 Rectified Flow 的概率面波频散反演。
-- **[grtm_cuda](https://github.com/cangyeone/grtm_cuda)** — GPU 加速的层状介质格林函数计算。
+- **[seis-stream](https://github.com/cangyeone/seis-stream)** — A continuous seismic waveform dataset for benchmarking earthquake monitoring algorithms.
+- **[bayes_location](https://github.com/cangyeone/bayes_location)** — Travel-time models, robust Bayesian earthquake location, and catalog quality control.
+- **[SurfFlow](https://github.com/cangyeone/SurfFlow)** — Probabilistic surface-wave dispersion inversion using a conditional rectified flow.
+- **[grtm_cuda](https://github.com/cangyeone/grtm_cuda)** — GPU-accelerated Green's function computation for layered media.
 
-## 学习与分享
+## Learning & Sharing
 
-我也整理理论与实践资源，方便从基础知识走向可运行的代码：
+I also share resources that connect theory with working code:
 
-- [定量地震学](https://github.com/cangyeone/QuantitativeSeismology) · 中文学习资料
-- [深度学习理论与实践](https://github.com/cangyeone/deep-learning-theory-and-practice) · [配套代码](https://github.com/cangyeone/deeplearning)
-- [大模型课程](https://github.com/cangyeone/llm_tech)
-- [RAG、工具调用与 Agent 实践课程](https://github.com/cangyeone/rag-tool-agent-course)
+- [Quantitative Seismology](https://github.com/cangyeone/QuantitativeSeismology) · Learning materials in Chinese
+- [Deep Learning Theory & Practice](https://github.com/cangyeone/deep-learning-theory-and-practice) · [Companion code](https://github.com/cangyeone/deeplearning)
+- [Large Language Model Course](https://github.com/cangyeone/llm_tech)
+- [RAG, Tool Calling & Agent Development](https://github.com/cangyeone/rag-tool-agent-course)
 
-## 交流与合作
+## Contact & Collaboration
 
-欢迎围绕地震 AI、科研工具和相关项目交流。具体问题可以在对应仓库提交 Issue；学术研究使用与商业合作请先查看各项目的许可证及使用说明。
+I welcome discussions about seismic AI, research tools, and related projects. For project-specific questions, please open an issue in the relevant repository. For academic use or commercial collaboration, please review each project's license and usage guidelines.
 
-📬 邮箱：[yuziye@cea-igp.ac.cn](mailto:yuziye@cea-igp.ac.cn)
+📬 Email: [yuziye@cea-igp.ac.cn](mailto:yuziye@cea-igp.ac.cn)
 
 <p align="center">
   <sub>Explore signals. Build models. Make research reproducible.</sub>
