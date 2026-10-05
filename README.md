@@ -55,6 +55,8 @@
 
 欢迎围绕地震 AI、科研工具和相关项目交流。具体问题可以在对应仓库提交 Issue；学术研究使用与商业合作请先查看各项目的许可证及使用说明。
 
+📬 邮箱：[yuziye@cea-igp.ac.cn](mailto:yuziye@cea-igp.ac.cn)
+
 <p align="center">
   <sub>Explore signals. Build models. Make research reproducible.</sub>
 </p>
