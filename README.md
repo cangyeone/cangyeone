@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.svg" alt="cangyeone — Seismology × AI" width="100%" />
+  <img src="assets/banner.svg" alt="cangyeone — AI for Seismology · Vibe Seismology" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Understanding seismic signals with AI. Connecting research and practice through code.</strong><br />
+  <strong>AI for Seismology · Vibe Seismology</strong><br />
   Seismic waveforms · Foundation models · Scientific agents
 </p>
 
@@ -20,11 +20,11 @@
 
 ## Hi, I'm cangyeone 👋
 
-My projects explore **seismology, geophysics, and artificial intelligence**: from continuous waveform processing, phase picking, and earthquake location to seismic foundation models and AI agents for scientific research. I build reusable models, tools, and workflows to make the path from data to scientific results clearer and more efficient.
+My focus is **AI for Seismology**: building models, tools, and agents that help us understand seismic signals and carry out earthquake research. I also explore **Vibe Seismology** — working with AI through natural language to turn research ideas into code, analyses, and reproducible workflows.
 
 - **Signals & models**: seismic waveform representations, multitask learning, phase picking, and event identification.
 - **Analysis & inversion**: earthquake location, surface-wave dispersion inversion, numerical computing, and GPU acceleration.
-- **Research workflows**: automated cataloging, RAG, tool calling, and reproducible scientific analysis.
+- **Vibe Seismology**: natural language interaction, RAG, tool calling, and scientific agents for automated cataloging and reproducible analysis.
 
 ## Featured Projects
 
@@ -57,7 +57,7 @@ I also share resources that connect theory with working code:
 
 ## Contact & Collaboration
 
-I welcome discussions about seismic AI, research tools, and related projects. For project-specific questions, please open an issue in the relevant repository. For academic use or commercial collaboration, please review each project's license and usage guidelines.
+I welcome discussions about AI for Seismology, Vibe Seismology, and research tools. For project-specific questions, please open an issue in the relevant repository. For academic use or commercial collaboration, please review each project's license and usage guidelines.
 
 📬 Email: [yuziye@cea-igp.ac.cn](mailto:yuziye@cea-igp.ac.cn)
 

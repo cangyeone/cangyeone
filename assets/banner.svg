@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">cangyeone — Seismology × AI</title>
+  <title id="title">cangyeone — AI for Seismology · Vibe Seismology</title>
   <desc id="desc">A dark blue banner with a turquoise seismic waveform, connecting seismic signals and artificial intelligence.</desc>
   <defs>
     <linearGradient id="background" x2="1" y2="1">
@@ -20,9 +20,9 @@
   <circle cx="1040" cy="95" r="150" fill="#39ddc4" opacity="0.035" />
   <circle cx="1040" cy="95" r="108" fill="none" stroke="#39ddc4" stroke-opacity="0.12" />
   <circle cx="1040" cy="95" r="66" fill="none" stroke="#39ddc4" stroke-opacity="0.18" />
-  <text x="64" y="68" fill="#72e2d1" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4">SEISMOLOGY × ARTIFICIAL INTELLIGENCE</text>
+  <text x="64" y="68" fill="#72e2d1" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4">AI FOR SEISMOLOGY</text>
   <text x="60" y="144" fill="#f0f6ff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">cangyeone</text>
-  <text x="64" y="183" fill="#a8bed0" font-family="Arial, Helvetica, sans-serif" font-size="20">From seismic signals to scientific insight.</text>
+  <text x="64" y="183" fill="#a8bed0" font-family="Arial, Helvetica, sans-serif" font-size="20">Vibe Seismology · From ideas to scientific insight.</text>
   <path d="M0 255H110L125 251L137 261L148 254H205L216 246L228 265L240 251L251 256H302L316 240L329 278L342 229L354 262L367 252H407L421 242L434 273L445 215L456 290L467 186L479 304L491 158L503 292L515 212L527 277L539 224L551 270L563 240L575 259L587 249L600 255H652L665 248L679 265L693 242L707 275L721 225L735 282L749 218L763 281L777 234L791 269L805 241L819 263L833 248L847 258H902L916 252L930 260L944 254H1200" fill="none" stroke="url(#wave)" stroke-width="2.5" stroke-linejoin="round" />
   <text x="64" y="306" fill="#7b9caf" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">WAVEFORMS / MODELS / SCIENTIFIC AGENTS</text>
 </svg>

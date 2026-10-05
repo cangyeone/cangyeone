@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.svg" alt="cangyeone — Seismology × AI" width="100%" />
+  <img src="assets/banner.svg" alt="cangyeone — AI for Seismology · Vibe Seismology" width="100%" />
 </p>
 
 <p align="center">
-  <strong>用 AI 理解地震信号，用代码连接研究与实践。</strong><br />
+  <strong>AI for Seismology · Vibe Seismology</strong><br />
   Seismic waveforms · Foundation models · Scientific agents
 </p>
 
@@ -20,11 +20,11 @@
 
 ## 你好，我是 cangyeone 👋
 
-我的项目围绕 **地震学、地球物理与人工智能** 展开：从连续波形处理、震相拾取和地震定位，到地震基础模型与面向科研的 AI Agent。希望把研究方法做成可复用的模型、工具和工作流，让数据走向结果的过程更清晰、更高效。
+我关注 **AI for Seismology（面向地震学的人工智能）**，构建帮助理解地震信号、开展地震研究的模型、工具与 Agent。同时探索 **Vibe Seismology**：通过自然语言与 AI 协作，把研究想法转化为代码、分析结果和可复现的工作流。
 
 - **信号与模型**：地震波形表征、多任务学习、震相拾取与事件识别。
 - **分析与反演**：地震定位、面波频散反演、数值计算与 GPU 加速。
-- **科研工作流**：自动编目、RAG、工具调用，以及可复现的科学分析。
+- **Vibe Seismology**：自然语言交互、RAG、工具调用与科研 Agent，支持自动编目和可复现的科学分析。
 
 ## 代表项目
 
@@ -57,7 +57,7 @@
 
 ## 交流与合作
 
-欢迎围绕地震 AI、科研工具和相关项目交流。具体问题可以在对应仓库提交 Issue；学术研究使用与商业合作请先查看各项目的许可证及使用说明。
+欢迎围绕 AI for Seismology、Vibe Seismology 与科研工具交流。具体问题可以在对应仓库提交 Issue；学术研究使用与商业合作请先查看各项目的许可证及使用说明。
 
 📬 邮箱：[yuziye@cea-igp.ac.cn](mailto:yuziye@cea-igp.ac.cn)
 
